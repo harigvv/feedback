@@ -24,6 +24,8 @@ To get started with this project, you will need to have the following installed 
 
 
 To build and run the project, follow these steps:
+
+* Clone the repository: `git clone https://github.com/harigvv/feedback.git`
 * Navigate to the project directory: cd feedback
 * Add database "feedback_db" to postgres 
 * Build the project: mvn clean install
